@@ -1,6 +1,9 @@
 # regress-o_3case-
 
+
+
 Projeto de Regressão: Previsão de Preços de Imóveis nos EUA
+
 
 Este é um projeto de regressão usando Python para prever os preços de imóveis nos Estados Unidos com base em um conjunto de características. Utilizamos técnicas de análise exploratória de dados, visualização e modelagem de regressão linear para criar um modelo preditivo.
 
